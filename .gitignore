@@ -1,0 +1,7 @@
+config.yaml
+data/
+venv/
+.idea
+__pycache__
+*.iml
+trash
